@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MarvelCharacters</string>
+    <string name="label_list_characters">Characters</string>
+    <string name="label_detail_character">Detalle</string>
+    <string name="title_text_comics">Comics</string>
+    <string name="list_text">Lista</string>
+    <string name="label_layout_grid_type">Grid</string>
+    <string name="label_layout_list_type">List</string>
+    <string name="error_fragment_not_params">Fragment didn\'t receive info</string>
+    <string name="tag_args_fragment">Args</string>
+</resources>
